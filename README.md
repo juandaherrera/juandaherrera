@@ -7,7 +7,7 @@ Soy un Ingeniero Industrial y Business Intelligence Analyst con más de 2 años 
 
 ## 🔭 Estoy trabajando actualmente en...
 
-Mi trabajo en Rappi como Business Intelligence Analyst me permite sumergirme diariamente en el análisis y visualización de datos. También estoy desarrollando un proyecto personal, [Fundrivo](https://github.com/juandaherrera/fundrivo), una aplicación web para el control de finanzas personales.
+Como BI Analyst en Rappi, me dedico a explorar el poder de los datos para impulsar decisiones estratégicas. Mi papel me permite sumergirme profundamente en los datos, utilizando herramientas como Power BI y Python para desentrañar insights significativos y valiosos. Cada día, analizo las métricas operativas de Colombia, creando visualizaciones de datos que cuentan una historia clara y precisa. Mi objetivo es siempre proporcionar análisis que sean tanto detallados como accesibles, permitiendo a nuestro equipo tomar decisiones informadas y basadas en datos sólidos.
 
 ## 🌱 Estoy aprendiendo...
 
