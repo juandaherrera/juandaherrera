@@ -2,7 +2,7 @@
 
 Soy un Ingeniero Industrial y Senior Data Analyst con más de 2 años de experiencia en análisis de datos dentro de áreas de Producción/Operaciones. Actualmente trabajo en Rappi, navegando el mar de los datos con pasión y dinamismo. Con habilidades avanzadas en SQL, Python, Django y Power BI. Los números son mi segundo idioma y me encanta usarlos para diseñar estrategias de alto impacto e innovadoras soluciones. Aventurándome en el emocionante viaje del Machine Learning, soy un aprendiz entusiasta que disfruta explorando nuevas fronteras cada día.
 
-[![Linkedin: Juan David Herrera](https://img.shields.io/badge/-JuanDavidHerrera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-david-herrera/)](https://www.linkedin.com/in/juan-david-herrera/)
+
 [![GitHub juandaherrera](https://img.shields.io/github/followers/juandaherrera?label=followers&style=social)](https://github.com/juandaherrera)
 
 ## 🔭 Estoy trabajando actualmente en...
@@ -26,6 +26,7 @@ Siempre estoy buscando aprender y mejorar mis habilidades. Actualmente estoy mej
 
 ## 📫 Cómo contactarme
 
+- [![Linkedin: Juan David Herrera](https://img.shields.io/badge/-JuanDavidHerrera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-david-herrera/)](https://www.linkedin.com/in/juan-david-herrera/)
 - Correo electrónico: [juandaherreparra@gmail.com](mailto:juandaherreparra@gmail.com)
 
 Si te apasionan los datos y las soluciones basadas en números tanto como a mí, ¡conversemos!
