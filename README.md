@@ -1,6 +1,6 @@
 # Hola, soy Juan David Herrera 👋🏻
 
-Soy un Ingeniero Industrial y Senior Data Analyst con más de 2 años de experiencia en el análisis de datos en áreas de Producción/Operaciones. Mi pasión radica en la transformación y optimización de datos para impulsar soluciones estratégicas. Actualmente, en Rappi, me encuentro en una transición hacia el campo del Data Engineering. Con habilidades avanzadas en SQL, Python, Apache Airflow y Snowflake, y respaldado por una sólida formación a través de cursos especializados, estoy listo para abordar los desafíos de la ingeniería de datos. Mi objetivo es combinar análisis sólidos con la construcción de infraestructuras de datos robustas y efectivas.
+Soy un Ingeniero Industrial y Senior Data Analyst con más de 3 años de experiencia en el análisis de datos en áreas de Producción/Operaciones. Mi pasión radica en la transformación y optimización de datos para impulsar soluciones estratégicas. Actualmente, en Rappi, me encuentro en una transición hacia el campo del Data Engineering. Con habilidades avanzadas en SQL, Python, Apache Airflow y Snowflake, y respaldado por una sólida formación a través de cursos especializados, estoy listo para abordar los desafíos de la ingeniería de datos. Mi objetivo es combinar análisis sólidos con la construcción de infraestructuras de datos robustas y efectivas.
 
 En mis tiempos libres me aventuro en el emocionante viaje del Machine Learning, soy un aprendiz entusiasta que disfruta explorando nuevas fronteras cada día.
 
