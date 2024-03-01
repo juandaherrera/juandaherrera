@@ -28,7 +28,9 @@ Siempre estoy buscando aprender y mejorar mis habilidades. Actualmente estoy mej
 
 ## 📫 Cómo contactarme
 
-- [![Linkedin: Juan David Herrera](https://img.shields.io/badge/-JuanDavidHerrera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-david-herrera/)](https://www.linkedin.com/in/juan-david-herrera/)
-- Correo electrónico: [juandaherreparra@gmail.com](mailto:juandaherreparra@gmail.com)
+| Red | Contacto |
+| --- | -------- |
+| Correo | juandaherreparra@gmail.com | 
+| LinkedIn | [![Linkedin: Juan David Herrera](https://img.shields.io/badge/-JuanDavidHerrera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-david-herrera/)](https://www.linkedin.com/in/juan-david-herrera/) |
 
 Si te apasionan los datos y las soluciones basadas en números tanto como a mí, ¡conversemos!
