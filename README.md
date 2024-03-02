@@ -15,15 +15,36 @@ Mi rol ha evolucionado para incluir una perspectiva más global, supervisando y 
 
 ## 🌱 Estoy aprendiendo...
 
-Siempre estoy buscando aprender y mejorar mis habilidades. Actualmente estoy mejorando mi conocimiento en Machine Learning.
+Siempre estoy buscando aprender y mejorar mis habilidades. Actualmente estoy mejorando mi conocimiento en Desarrollo Web.
 
-## 💼 Habilidades
+## 💼 Tecnologías
 
-| Categoría | Tecnologías | 
-| ---- | ---- |
-| Lenguajes / Herramientas | <!-- Python --> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <!-- PostgreSQL --> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> <!-- Javascript --> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" alt="javascript" width="60" height="60"/> </a> <!-- CSS3 --> <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/> </a> <!-- HTML5 --> <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/> <!-- Git --> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> </a> <!-- DAX --> <a href="https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quickstart-learn-dax-basics" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/DAX_logo.svg" alt="DAX" width="80" height="60"/> </a> <!-- Visual Basic --> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" height="60"/> </a> </a> <!-- Visual Basic --> <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Microsoft_Visual_Basic_for_Applications_logo.svg" alt="Visual Basic" width="192" height="60"/> </a> |
-| Herramientas de BI | <!-- Power BI --> <a href="https://powerbi.microsoft.com/es-es/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="60" height="60"/> </a> <!-- Tableau --> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="60" height="60"/> </a> <!-- Snowflake --> <a href="https://www.snowflake.com/es/" target="_blank" rel="noreferrer"> <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631" alt="Snowflake" width="60" height="60"/> </a> <!-- Redash --> <a href="https://redash.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redashio/redashio-icon.svg" alt="Redash" width="60" height="60"/> </a> <!-- Airflow --> <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?api=v2" alt="Apache Airflow" width="60" height="60"/> </a> <!-- Excel --> <a href="https://www.microsoft.com/es-co/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="60" height="60"/> </a>   | 
-| Frameworks | <!-- Django --> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="60" height="60"/> </a> <!-- Bootstrap --> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="60" height="60"/> </a> |
+[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Reflex](https://img.shields.io/badge/reflex-FA7343?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()  <!-- No hay un logo oficial para Reflex, se usa el de Python -->
+[![Airflow](https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white&labelColor=101010)]()
+[![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)]()
+[![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
+[![Spark](https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white&labelColor=101010)]()
+[![Anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=101010)]()
+[![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
+[![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![JQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
+[![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)]()
+[![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=101010)]()
+[![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+[![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=101010)]()
+[![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white&labelColor=101010)]()
+[![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=101010)]()
+[![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+[![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=101010)]()
+[![Railway](https://img.shields.io/badge/railway-CCD6F6?style=for-the-badge&logo=railway&logoColor=white&labelColor=101010)]()
 
 
 ## 📫 Cómo contactarme
