@@ -1,19 +1,17 @@
 # Hola, soy Juan David Herrera 👋🏻
 
-Soy un Ingeniero Industrial y Data Scientist con más de 3 años de experiencia en análisis e ingeniería de datos y desarrollo de microservicios para áreas de Producción/Operaciones. Mi pasión radica en la transformación y optimización de datos para impulsar soluciones estratégicas. Actualmente en Rappi, me involucro activamente en proyectos de Data Engineering y Python Development, aplicando mis conocimientos avanzados en SQL, Python, FastAPI, Apache Airflow y Snowflake. Esta experiencia está respaldada por una formación sólida, complementada con cursos especializados y certificaciones que me han dotado de las herramientas necesarias para abordar con éxito los retos inherentes a los campos de Data Engineering y Data Science. Mi enfoque se centra en la integración de análisis exhaustivos con la creación y gestión de infraestructuras de datos robustas y eficientes.
+Soy un Ingeniero Industrial y Data Engineer con más de 3 años de experiencia en análisis e ingeniería de datos y desarrollo de microservicios para áreas de Producción/Operaciones. Mi pasión radica en la transformación y optimización de datos para impulsar soluciones estratégicas. Actualmente en Rappi, me involucro activamente en proyectos de Data Engineering y Python Development, aplicando mis conocimientos avanzados en SQL, Python, FastAPI, Apache Airflow y Snowflake. Esta experiencia está respaldada por una formación sólida, complementada con cursos especializados y certificaciones, me ha dotado de las herramientas necesarias para enfrentar con éxito los retos de Desarrollo Backend y Data Engineering. Mi enfoque se centra en la integración de análisis exhaustivos con la creación y gestión de infraestructuras de datos robustas y eficientes.
 
 
 [![Viewers](https://komarev.com/ghpvc/?username=juandaherrera&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/juandaherrera) [![GitHub juandaherrera](https://img.shields.io/github/followers/juandaherrera?label=followers&style=social)](https://github.com/juandaherrera)
 
 ## 🔭 Estoy trabajando actualmente en...
 
-Como Senior Data Analyst en Rappi, mi objetivo es utilizar los datos para impulsar decisiones estratégicas y mejorar la eficiencia operativa. Utilizo herramientas avanzadas como Power BI, Python y SQL para descubrir insights valiosos, ayudando a la empresa a tomar decisiones basadas en datos sólidos.
-
-Mi rol ha evolucionado para incluir una perspectiva más global, supervisando y controlando la estrategia de incentivos en nueve países diferentes. Este alcance internacional me permite identificar tendencias y patrones a gran escala, optimizando nuestras operaciones en todo Latam.
+Actualmente soy Data Engineer en Rappi. Aunque mi título es ese, realmente abarco tareas en tres campos: **Data Engineering**, **Python Developer** y **Data Scientist**. Soy responsable de los nuevos desarrollos de un microservicio diseñado en FastAPI y llevo a cabo múltiples tareas de ingeniería de datos con la ayuda de Airflow. También realizo algunos análisis y estimaciones mediante modelos de Machine Learning (aún soy un entusiasta en este campo) para ayudar al equipo con la toma de decisiones informadas.
 
 ## 🌱 Estoy aprendiendo...
 
-Siempre estoy buscando aprender y mejorar mis habilidades. Actualmente estoy mejorando mi conocimiento en Desarrollo Web.
+Actualmente estoy mejorando mi conocimiento en Desarrollo Web (con Python) y aprendiendo Go.
 
 ## 💼 Tecnologías
 
