@@ -1,19 +1,17 @@
-# Hola, soy Juan David Herrera 👋🏻
+# Hey, I'm Juan David Herrera 👋🏻
 
-Soy un Ingeniero Industrial y Data Engineer con más de 4 años de experiencia en análisis e ingeniería de datos y desarrollo de microservicios para áreas de Producción/Operaciones. Mi pasión radica en la transformación y optimización de datos para impulsar soluciones estratégicas. Actualmente en Rappi, me involucro activamente en proyectos de Data Engineering y Python Development, aplicando mis conocimientos avanzados en SQL, Python, FastAPI, Apache Airflow y Snowflake. Esta experiencia está respaldada por una formación sólida, complementada con cursos especializados y certificaciones, me ha dotado de las herramientas necesarias para enfrentar con éxito los retos de Desarrollo Backend y Data Engineering. Mi enfoque se centra en la integración de análisis exhaustivos con la creación y gestión de infraestructuras de datos robustas y eficientes.
+I'm an ML Backend Engineer with over 4 years of experience in backend development and data engineering. My main focus is building and optimizing microservices, ensuring scalability, performance, and efficiency in data handling.
+
+Currently, I work at Snoonu, developing backend solutions using Python, FastAPI, PostgreSQL, and Redis, while applying clean code principles, testing with Pytest, and automating workflows with GitHub Actions. I also have experience with Airflow and Snowflake, particularly in Data Engineering environments.
 
 
 [![Viewers](https://komarev.com/ghpvc/?username=juandaherrera&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/juandaherrera) [![GitHub juandaherrera](https://img.shields.io/github/followers/juandaherrera?label=followers&style=social)](https://github.com/juandaherrera)
 
-## 🔭 Estoy trabajando actualmente en...
+## 🔭 Currently working on...
 
-Actualmente soy Data Engineer en Rappi. Aunque mi título es ese, realmente abarco tareas en tres campos: **Data Engineering**, **Python Developer** y **Data Scientist**. Soy responsable de los nuevos desarrollos de un microservicio diseñado en FastAPI y llevo a cabo múltiples tareas de ingeniería de datos con la ayuda de Airflow. También realizo algunos análisis y estimaciones mediante modelos de Machine Learning (aún soy un entusiasta en este campo) para ayudar al equipo con la toma de decisiones informadas.
+At Snoonu, I’ve been involved in refactoring a monorepo, breaking it down into multiple independent libraries and services to improve code modularity and maintainability. Additionally, I contribute to developing new features and fixes, focusing on optimizing ML model responses and reducing processing times within our microservices. To achieve this, I work closely with a team of Data Scientists, ensuring seamless integration between models and the backend infrastructure.
 
-## 🌱 Estoy aprendiendo...
-
-Actualmente estoy mejorando mi conocimiento en Desarrollo Web (con Python) y aprendiendo Go.
-
-## 💼 Tecnologías
+## 💼 Tech Stack
 
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Reflex](https://img.shields.io/badge/reflex-FA7343?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()  <!-- No hay un logo oficial para Reflex, se usa el de Python -->
@@ -43,11 +41,9 @@ Actualmente estoy mejorando mi conocimiento en Desarrollo Web (con Python) y apr
 [![Railway](https://img.shields.io/badge/railway-CCD6F6?style=for-the-badge&logo=railway&logoColor=white&labelColor=101010)]()
 
 
-## 📫 Cómo contactarme
+## 📫 Contact Info
 
-| Red | Contacto |
+| Platform | Contact |
 | --- | -------- |
-| Correo | juandaherreparra@gmail.com | 
+| Email | juandaherreparra@gmail.com | 
 | LinkedIn | [![Linkedin: Juan David Herrera](https://img.shields.io/badge/-Juan_David_Herrera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-david-herrera/)](https://www.linkedin.com/in/juan-david-herrera/) |
-
-Si te apasionan los datos y las soluciones basadas en números tanto como a mí, ¡conversemos!
