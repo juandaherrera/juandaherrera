@@ -1,15 +1,15 @@
 # Hey, I'm Juan David Herrera 👋🏻
 
-I'm an ML Backend Engineer with over 4 years of experience in backend development and data engineering. My main focus is building and optimizing microservices, ensuring scalability, performance, and efficiency in data handling.
+I'm an ML Backend Engineer with over 5 years of experience in backend development and data engineering. My main focus is building and optimizing microservices, ensuring scalability, performance, and efficiency in data handling.
 
-Currently, I work at Snoonu, developing backend solutions using Python, FastAPI, PostgreSQL, and Redis, while applying clean code principles, testing with Pytest, and automating workflows with GitHub Actions. I also have experience with Airflow and Snowflake, particularly in Data Engineering environments.
+Currently, I work at Snoonu, developing backend solutions using Python, FastAPI, PostgreSQL, MongoDB, RabbitMQ and Redis, while applying clean code principles, testing with Pytest, and automating workflows with GitHub Actions. I also have experience with Airflow and Snowflake, particularly in Data Engineering environments.
 
 
 [![Viewers](https://komarev.com/ghpvc/?username=juandaherrera&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/juandaherrera) [![GitHub juandaherrera](https://img.shields.io/github/followers/juandaherrera?label=followers&style=social)](https://github.com/juandaherrera)
 
 ## 🔭 Currently working on...
 
-At Snoonu, I’ve been involved in refactoring a monorepo, breaking it down into multiple independent libraries and services to improve code modularity and maintainability. Additionally, I contribute to developing new features and fixes, focusing on optimizing ML model responses and reducing processing times within our microservices. To achieve this, I work closely with a team of Data Scientists, ensuring seamless integration between models and the backend infrastructure.
+At Snoonu, I’ve been involved in the development, maintenance, and optimization of several core services, including the ETA calculation service, the personalized communications system based on AWS Personalize, and the service acting as a centralized feature store for platform users. I act as the technical owner of these services, actively contributing to architectural decisions, refactors, and the definition of engineering standards, with a strong focus on performance, production stability, observability, and the seamless integration of ML models within a scalable microservices architecture.
 
 ## 💼 Tech Stack
 
@@ -31,6 +31,8 @@ At Snoonu, I’ve been involved in refactoring a monorepo, breaking it down into
 [![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![Redis](https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white&labelColor=101010)]()
+[![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 [![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=101010)]()
